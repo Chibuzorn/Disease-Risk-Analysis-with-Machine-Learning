@@ -56,4 +56,7 @@ This project integrates various data mining techniques to predict disease risk l
 ## Files Included
 - `Disease_Risk_Analysis.ipynb`: Jupyter notebook containing the code for data cleaning, feature engineering, model training, and evaluation.
 - `DATA_MINING_REPORT.pdf`: Detailed report of the project, including methodologies, results, and insights.
-- `predicted_test_data_final.csv`: CSV file containing the predictions made by the trained model.
+- `predictions.csv`: CSV file containing the predictions made by the trained model.
+- `disease_train.csv`: CSV file containing the training dataset used for model training.
+- `disease_test.csv`: CSV file containing the test dataset used for model evaluation.
+
