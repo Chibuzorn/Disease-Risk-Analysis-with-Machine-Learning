@@ -1,7 +1,7 @@
 # Disease-Risk-Analysis-with-Machine-Learning
 
 ## Project Overview
-This project aims to enhance disease risk prediction using a comprehensive dataset of 4,250 healthcare records. The dataset includes clinical, demographic, and medication data. Various data mining and machine learning techniques were employed to develop robust predictive models.
+This project aims to enhance disease risk prediction using a comprehensive dataset. The dataset includes clinical, demographic, and medication data. Various data mining and machine learning techniques were employed to develop robust predictive models.
 
 ## Table of Contents
 - [Introduction](#introduction)
